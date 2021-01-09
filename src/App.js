@@ -16,9 +16,9 @@ function App() {
 
         <img src={logo} className="App-logo" alt="logo" /> 
 
-        <h1>CCIOT</h1> 
-        <p>Hello from Karthik<p/>
-    </header> 
+        <h1>Hello from KARTHIK</h1> 
+
+      </header> 
 
     </div> 
 
